@@ -266,6 +266,8 @@ compress_html:
   ignore:
     envs: development
 
+# Site Search
+search: true
 
 # Defaults
 defaults:
@@ -280,3 +282,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
